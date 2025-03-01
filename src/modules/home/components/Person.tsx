@@ -3,24 +3,24 @@ import Image from 'next/image';
 const persons = [
   {
     name: 'Huan Nguyen',
-    role: 'Technical Blockchain Lead',
-    avatar: 'https://avatars.githubusercontent.com/u/12962887?v=4',
+    role: 'Senior Developer',
+    avatar: 'https://avatars.githubusercontent.com/u/13021427?v=4',
     github: 'https://github.com/nguyenvanhuan243',
-    linkedin: 'https://www.linkedin.com/in/sadanandpai/',
+    linkedin: 'https://github.com/nguyenvanhuan243',
   },
   {
-    name: 'Gopalakrishnan',
-    role: 'Frontend developer',
-    avatar: 'https://avatars.githubusercontent.com/u/22369081?v=4',
-    github: 'https://github.com/gopal1996',
-    linkedin: 'https://www.linkedin.com/in/gopal1996',
+    name: 'Nolanle',
+    role: 'Senior Developer',
+    avatar: 'https://avatars.githubusercontent.com/u/13021427?v=4',
+    github: 'https://github.com/nolanle',
+    linkedin: 'https://github.com/nolanle',
   },
   {
-    name: 'Vivek G',
-    role: 'Product designer, half developer',
-    avatar: 'https://avatars.githubusercontent.com/u/26523871?v=4',
-    github: 'https://github.com/yakshaG',
-    linkedin: 'https://www.linkedin.com/in/vivek-g-india',
+    name: 'Cuong Nguyen',
+    role: 'Senior Developer',
+    avatar: 'https://avatars.githubusercontent.com/u/13021427?v=4',
+    github: 'https://github.com/cuongnguyenCNN',
+    linkedin: 'https://github.com/cuongnguyenCNN',
   },
 ];
 
