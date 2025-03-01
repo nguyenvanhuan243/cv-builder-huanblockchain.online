@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "target": "esnext", // Changed to "esnext" for better compatibility with modern features
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": false, // Set to false if you're not using JavaScript files
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve", // This is appropriate for Next.js
+    "incremental": true,
+    "removeComments": false // Optional: Keep comments for better code readability
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "exclude": ["node_modules"]
+}

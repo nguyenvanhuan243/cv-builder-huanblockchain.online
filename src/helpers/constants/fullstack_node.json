@@ -1,0 +1,219 @@
+{
+  "basics": {
+    "name": "Huan Nguyen",
+    "label": "Senior fullstack Developer",
+    "image": "https://i.ibb.co/yhYVFKp/Screenshot-2024-10-24-at-09-16-49.png",
+    "email": "nguyenvanhuan243@gmail.com",
+    "phone": "0963926643",
+    "url": "https://github.com/nguyenvanhuan243",
+    "summary": "I am a senior nodejs developer with over 8 years of experience in web development and strong English communication skills.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "84",
+      "region": ""
+    },
+    "relExp": "8 years",
+    "totalExp": "6 Years",
+    "objective": "",
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "sadanandpai",
+        "url": "https://www.linkedin.com/in/sadanandpai/"
+      },
+      {
+        "network": "twitter",
+        "username": "sadanandpai",
+        "url": "https://www.twitter.com/sadanandpai/"
+      },
+      {
+        "network": "github",
+        "username": "sadanandpai",
+        "url": "https://github.com/sadanandpai/"
+      },
+      {
+        "network": "hackerrank",
+        "username": "paicube",
+        "url": "https://www.hackerrank.com/paicube/"
+      },
+      {
+        "network": "hackerearth",
+        "username": "sadanandpai",
+        "url": "https://www.hackerearth.com/sadanandpai/"
+      },
+      {
+        "network": "codechef",
+        "username": "sadanandpai",
+        "url": "https://www.codechef.com/sadanandpai/"
+      },
+      {
+        "network": "leetcode",
+        "username": "paicube",
+        "url": "https://leetcode.com/paicube/"
+      }
+    ]
+  },
+
+  "skills": {
+    "languages": [
+      { "name": "English", "level": 90 },
+      { "name": "Vietnammese", "level": 80 }
+    ],
+    "frameworks": [],
+    "technologies": [
+      { "name": "Ruby", "level": 3 },
+      { "name": "React", "level": 3 },
+      { "name": "NodeJS", "level": 3 },
+      { "name": "Kubenetes", "level": 3 },
+      { "name": "Docker", "level": 3 },
+      { "name": "Typescript", "level": 3 },
+      { "name": "Javascript", "level": 3 }
+    ],
+    "libraries": [
+      { "name": "jQuery", "level": 3 },
+      { "name": "Redux", "level": 3 }
+    ],
+    "databases": [{ "name": "Firebase", "level": 3 }],
+    "practices": [
+      { "name": "Component based architecture", "level": 3 },
+      { "name": "Agile methodology", "level": 3 },
+      { "name": "Design Patterns", "level": 3 },
+      { "name": "Test Driven Development", "level": 3 },
+      { "name": "MVC", "level": 3 }
+    ],
+    "tools": [
+      { "name": "Git", "level": 3 },
+      { "name": "VS Code", "level": 3 },
+      { "name": "Jira", "level": 3 },
+      { "name": "Webpack", "level": 3 },
+      { "name": "Figma", "level": 3 },
+      { "name": "Bitbucket", "level": 3 },
+      { "name": "Kafka", "level": 3 },
+      { "name": "RabbitMQ", "level": 3 },
+      { "name": "Cypress", "level": 3 },
+      { "name": "Jest Test", "level": 3 },
+      { "name": "1password", "level": 3 },
+      { "name": "Telegram", "level": 3 },
+      { "name": "Slack", "level": 3 },
+      { "name": "Zotapay", "level": 3 }
+    ]
+  },
+
+  "work": [
+    {
+      "id": "2",
+      "name": "",
+      "position": "Backend nodejs and reactjs (Terralogic Company)",
+      "url": "",
+      "startDate": "Oct 2017",
+      "isWorkingHere": false,
+      "endDate": "Jul 2018",
+      "highlights": [
+        "* Worked on a team of 5 developers to develop a web application for a client."
+      ],
+      "summary": "<ul><li>Description: Content Management System | Customer: US | Team about: 100 and development team has 20 members.</li><li>Responsibilities: Build api and integrate api.</li><li>Technologies: NodeJS, reactjs.</li></ul>",
+      "years": "2 years"
+    },
+    {
+      "id": "3",
+      "name": "",
+      "position": "Backend Nodejs and ruby (Somotsoft Company)",
+      "url": "",
+      "startDate": "Jul 2018",
+      "isWorkingHere": false,
+      "endDate": "Jun 2019",
+      "highlights": [
+        "* Worked on a team of 5 developers to develop a web application for a client"
+      ],
+      "summary": "<ul><li>Description: Lending platform | Customer: US | Team size: 50 and development team has 10 members.</li><li>Responsibilities: Build API and unit test.</li><li>Technologies: Ruby on rails, nodejs, postgresql, reactjs, azure, github action, docker.</li></ul>",
+      "years": "2 years"
+    },
+    {
+      "id": "4",
+      "name": "",
+      "position": "Fullstack nodejs and reactjs (Deliveree Company)",
+      "url": "",
+      "startDate": "Jul 2019",
+      "isWorkingHere": false,
+      "endDate": "Dec 2020",
+      "highlights": [
+        "* Worked on a team of 5 developers to develop a web application for a client"
+      ],
+      "summary": "<ul><li>Description: Logistic platform | Customer: Malaysia, Thailand | Team size: 100 and development team has 20 members.</li><li>Responsibilities: Build api, integrate api.</li><li>Technologies: Ruby, reactjs, nodejs, elasticsearch, github, circleci, github action, slack.</li></ul>",
+      "years": "2 years"
+    },
+    {
+      "id": "5",
+      "name": "",
+      "position": "Senior nodejs, reactjs (Fiotech Solutions)",
+      "url": "",
+      "startDate": "Dec 2020",
+      "isWorkingHere": false,
+      "endDate": "Apr 2022",
+      "highlights": [
+        "* Worked on a team of 5 developers to develop a web application for a client"
+      ],
+      "summary": "<ul><li>Description: Job posting platform and crypto exchange | Customer: VN | Team size: 10 and development team has 4 members </li><li>Responsibilities: Build api, deploy, integrate api, unit test, smart contract token</li><li>Technologies: NodeJS, ruby, reactjs, postgresql, web3, smart contract.</li></ul>",
+      "years": "2 years"
+    },
+    {
+      "id": "6",
+      "name": "",
+      "position": "Senior backend nodejs and ruby (FreeC Company)",
+      "url": "",
+      "startDate": "Apr 2022",
+      "isWorkingHere": false,
+      "endDate": "Mar 2023",
+      "highlights": [
+        "* Worked on a team of 5 developers to develop a web application for a client"
+      ],
+      "summary": "<ul><li>Description: Job posting platform | Customer: VN | Team size: 100 and development team has 10 members.</li><li>Responsibilities: Build api, deployment, unit test.</li><li>Technologies: Ruby, nodejs, reactjs, postgresql, meilisearch, docker.</li></ul>",
+      "years": "2 years"
+    },
+    {
+      "id": "7",
+      "name": "",
+      "position": "Senior backend nodejs and ruby (FXCE Company)",
+      "url": "",
+      "startDate": "Mar 2023",
+      "isWorkingHere": false,
+      "endDate": "Apr 2024",
+      "highlights": [
+        "* Worked on a team of 5 developers to develop a web application for a client"
+      ],
+      "summary": "<ul><li>Description: Fxce is a forex exchange | Customer: VN | Team size: 100 and development team has 20 members.</li><li>Responsibilities: Deploy, training junior, api, web3, smart contract, wallet usdt.</li><li>Technologies: Ruby, nodejs, web3, smart contract, kafka, zotapay payment, rancher, docker.</li></ul>",
+      "years": "2 years"
+    },
+    {
+      "id": "8",
+      "name": "",
+      "position": "Senior nodejs and javascript (Fiotech Company)",
+      "url": "",
+      "startDate": "Apr 2024",
+      "isWorkingHere": false,
+      "endDate": "March 2025",
+      "highlights": [
+        "* Worked on a team of 5 developers to develop a web application for a client"
+      ],
+      "summary": "<ul><li>Description: Cryptocurrency exchange | Customer: Dubai | Team size: 10 and development team has 6 members.</li><li>Responsibilities: Build and integrate api, deploy, test.</li><li>Technologies: Nodejs, smart contract, web3, infura, remix ethereum, docker, docker-compose, mongodb cloud, meilisearch, coinmarketcap, coingecko, binance api, solana, rust.</li></ul>",
+      "years": "2 years"
+    }
+  ],
+
+  "education": [
+    {
+      "id": "1",
+      "institution": "University of Science",
+      "url": "https://www.mit.edu/",
+      "studyType": "Bachelor's degree",
+      "area": "Software engineering",
+      "startDate": "2013",
+      "isStudyingHere": false,
+      "endDate": "2017",
+      "score": "68%",
+      "courses": []
+    }
+  ]
+}
