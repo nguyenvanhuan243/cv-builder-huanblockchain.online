@@ -118,6 +118,10 @@ const NavBarLayout = () => {
     };
   }, []);
 
+  const joinCourse = () => {
+    window.open('https://hocvienlaptrinh.huanblockchain.online', '_blank');
+  };
+
   return (
     <nav className="h-14 w-full bg-resume-800 relative flex py-2.5 pl-5 pr-4 items-center shadow-level-8dp z-20 print:hidden">
       <Link href="/">
@@ -154,6 +158,9 @@ const NavBarLayout = () => {
             />
           </StyledButton>
           <PrintResume />
+          <StyledButton variant="text" onClick={joinCourse}>
+            Khóa Học
+          </StyledButton>
         </NavBarActions>
       </div>
       <Toast
